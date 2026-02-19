@@ -1,0 +1,70 @@
+body {
+    background-color: whitesmoke;
+    font-family: 'Montserrat', sans-serif;
+}
+
+h1 {
+    color: black;
+}
+
+p {
+    font-size: 17px;
+    line-height: 1.33333;
+}
+
+
+h3 {
+    margin-bottom: 5px; 
+}
+
+.body-subContainer {
+   padding-left: 20px;
+   padding-right: 20px;  
+   padding-bottom: 25px;
+}
+
+.projects-container {
+    margin-top: 0%;
+    margin-bottom: 20px; 
+    max-width: 600px;  /* Limits how wide the text can go */
+    margin: 15px auto; /* Centered the 'box' itself and adds vertical space */
+}
+
+.projects-subContainer {
+    margin-top: 10px; 
+    margin-bottom: 1%; 
+}
+
+.skills-container {
+    display: flex;
+    justify-content: flex-start;
+    gap: 40px;
+    margin-top: 0px; 
+    max-width: 600px;  /* Limits how wide the text can go */
+    margin: 15px auto; /* Centered the 'box' itself and adds vertical space */
+}
+
+.skill-holder {
+    margin-top: 50px;
+       
+}
+
+.skill-category h5 {
+    margin-top: 5px; 
+    margin-bottom: 10px;
+    
+}
+
+.description {
+    margin-top: 0; 
+    margin-bottom: 20px; 
+    text-align: justify;
+ 
+}
+
+.closing-statement {
+    text-align: center;
+    font-style: italic;
+    max-width: 600px;  /* Limits how wide the text can go */
+    margin: 15px auto; /* Centered the 'box' itself and adds vertical space */
+}
